@@ -16,13 +16,14 @@ header {
    }
    nav > ul > li {
     display: inline-block;
- 
+    
    }
    nav a {
     text-decoration: none;
     padding: 2em;
     line-height: 5;
     color: maroon;
+    text-align: center;
     font-family: verdana, sans-serif;
    }
    nav li:hover {
